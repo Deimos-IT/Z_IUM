@@ -3,7 +3,8 @@
 - [ ] vignetta con smartwatch che ti indica come stai o che ricevi un soccorso
 - [ ] Vignetta con occhiali che ti danno la strada magari mettendo in risalto la targetta della via da prendere
 - [x] Vignetta davanti alla farmacia/poste dove con gli occhiali/o con l'app del cellulare prendi il ticket
-- carino da far vedere l'interazione se c'è tra dispositivi
+- carino da far vedere l'interazione se c'è tra dispositivi.  
+- tracker dei bidoni della spazzatura
 # CURRENT IDEAS
 - [ ] *MultiPlatform Application* **Path_finder**
 - [ ] [smart glasses](https://www.youtube.com/watch?v=I9bnmES7O74)[^1] that shows **path based** on your preference
