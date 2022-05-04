@@ -1,6 +1,6 @@
 # Storyboards to do
 - [x] Immagine che rappresenti che si evita un ponte (tipo nonnetto che vede il ponte, ma il cellulare gli dice di andare a destra dove vede che c'è una strada senza ponte che porta dalla stessa parte)
-- [ ] vignetta con smartwatch che ti indica come stai o che ricevi un soccorso
+- [ ] vignetta con utilizzo dello smartwatch con maps e funzionalità che ti indica come stai o che ricevi un soccorso
 - [x] ~~Vignetta con occhiali che ti danno la strada magari mettendo in risalto la targetta della via da prendere~~ [causa scenario B: Non è possibile utilizzare ulteriori tipologie di dispositivi oltre a quelli elencati...](https://moodle.unive.it/mod/page/view.php?id=481179)
 - [ ] interfaccia dell'applicazione, un walk-through
 - [x] Vignetta davanti alla farmacia/poste dove con gli occhiali/o con l'app del cellulare prendi il ticket
