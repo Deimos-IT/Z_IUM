@@ -1,3 +1,4 @@
+# here are stored the files that will be send
 # Storyboards to do
 - [x] Immagine che rappresenti che si evita un ponte (tipo nonnetto che vede il ponte, ma il cellulare gli dice di andare a destra dove vede che c'è una strada senza ponte che porta dalla stessa parte)
 - [ ] vignetta con utilizzo dello smartwatch con maps e funzionalità che ti indica come stai o che ricevi un soccorso
