@@ -7,7 +7,7 @@ corona di led intorno al lampione:
 - viola: affollato
 # inclusività
 - bottone: quattro chiacchere
-una volta accettata la richiesta ti si accende il percorso 
+una volta accettata la richiesta ti si attiva il percorso 
 # sostenibilità
 - pannello fotovoltaico per l'alimentazione
 - materiali sostenibili/riciclati
