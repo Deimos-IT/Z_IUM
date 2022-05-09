@@ -12,7 +12,24 @@ una volta accettata la richiesta ti si attiva il percorso
 - pannello fotovoltaico per l'alimentazione
 - materiali sostenibili/riciclati
 
-
+# citazioni del cazzo del prof con tanti
+in un'unica frase
+> ehmm.... dunque... insomma.... rispetto al... eh... partendo dall'inizio....
+- proponi prima percorso più veloce
+	- seconda opzione chiedi se vuole uno più lento, ma accessibile
+- posso collegarmi a gruppi di anziani?
+	- una schermata radar con
+> oggetto caratterizzato che si illuminano in parti diverse
+perché le diverse tipologie di luce possono essere non chiare ad un vecio
+- proposta di mettere 2 lampadine sul lampione in una pila, in questo modo i veci non hanno problemi con la memoria
+	- 1) con forma: sole, nuvole, pioggia, marea
+		- che si illuminano in base al meteo
+	- 2) con forma: 3 persone
+		- accese 3 significa tanta gente
+		- accesa 1 poche persone
+			- le persone si possono illuminare verde/rosso/giallo
+			- verde: disponibilità di persone che vogliono fare quattro chiacchere in prossimità di quella zona
+			- rosso: tantissima gente
 
 
 
