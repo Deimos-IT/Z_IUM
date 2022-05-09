@@ -1,3 +1,25 @@
+# ambient display
+corona di led intorno al lampione:
+- verde: bella giornata
+- giallo: previsione burrascose
+- rosso: caldo
+- blu: acqua alta
+- viola: affollato
+# inclusività
+- bottone: quattro chiacchere
+una volta accettata la richiesta ti si accende il percorso 
+# sostenibilità
+- pannello fotovoltaico per l'alimentazione
+- materiali sostenibili/riciclati
+
+
+
+
+
+
+
+
+
 # done...here are stored the files that will be send
 # Storyboards to do
 - [x] Immagine che rappresenti che si evita un ponte (tipo nonnetto che vede il ponte, ma il cellulare gli dice di andare a destra dove vede che c'è una strada senza ponte che porta dalla stessa parte)
