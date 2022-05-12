@@ -1,17 +1,39 @@
-# ambient display
+
+# inclusività
+se non usi la navigazione oppure vuoi fare una pausa
+- [ ] aggiunta del **percorso quattro chiacchere**  
+che incrocia i posti dove di solito i tuoi amici fanno 4 chiacchere
+- bottone: quattro chiacchere
+una volta accettata la richiesta ti si attiva il percorso 
+- eventuale possibilità di creazione di un profilo e   
+che ti dia una lista/mappa delle persone attive nelle ultime settimane
+# sostenibilità
+- pannello fotovoltaico per l'alimentazione
+- materiali sostenibili/riciclati
+# proposta alternativa
+di mettere lampadine intorno al lampione in una pila,   
+in questo modo si evita di imparare cosa vanno a significare ogni colore/segnale non hanno problemi con la memoria  
+1. con forma: nuvole, pioggia, marea
+- che si illuminano in base al meteo
+    - giallo: awareness
+    - rosso: nei prossimi 15-30minuti arriva il temporale/marea
+        - **per la marea e la temperatura sarebbe meglio fare dei rami aggiuntivi  
+        che cambiano progressivamente in base all'altezza/temperatura**
+# non proposto
+con forma: 2 gruppi di persone ben distinte.
+- una indica la disponibilità di persone per fare quattro chiacchere
+    - giallo: ci sono alcune persone disponibili per quattro chiacchere rispettivamente 
+    - verde: tanta gente per quattro chiacchere
+- una indica l'affollamento di persone
+    - giallo: affollamento medio
+    - rosso: tantissima gente
+# ambient display scartato
 corona di led intorno al lampione:
 - verde: bella giornata
 - giallo: previsione burrascose
 - rosso: caldo
 - blu: acqua alta
 - viola: affollato
-# inclusività
-- bottone: quattro chiacchere
-una volta accettata la richiesta ti si attiva il percorso 
-# sostenibilità
-- pannello fotovoltaico per l'alimentazione
-- materiali sostenibili/riciclati
-
 # citazioni del cazzo del prof con tanti
 in un'unica frase
 > ehmm.... dunque... insomma.... rispetto al... eh... partendo dall'inizio....
@@ -23,19 +45,6 @@ in un'unica frase
 perché le diverse tipologie di luce possono essere non chiare ad un vecio
 
 > la cosa migliore sarebbe di scegliere entrambi: sostenibilità & inclusione sociale
-# proposta 1
-di mettere 2 lampadine sul lampione in una pila, in questo modo i veci non hanno problemi con la memoria
-	- 1) con forma: sole, nuvole, pioggia, marea
-		- che si illuminano in base al meteo
-	- 2) con forma: 3 persone
-		- accese 3 significa tanta gente
-		- accesa 1 poche persone
-			- le persone si possono illuminare verde/rosso/giallo
-			- verde: disponibilità di persone che vogliono fare quattro chiacchere in prossimità di quella zona
-			- rosso: tantissima gente
-# proposta 2
-lampada
-
 
 
 
