@@ -15,26 +15,27 @@
             - [ ] da definire le preferenze sulla deviazione massima del percorso
             - [x] widget degli amici incrociati e possibilità di vedere la lista degli amici presenti nel posto x e mandare un saluto
                 - [x] possibilità di aggiungere nuovi amici in base alle persone presenti nella cerchia del tuo amico
-- [x] cerca
+- [x] **cerca**
     - [x] lista di percorsi più frequenti
     - [x] apertura mappa
         - [x] icona interagibile vai a casa
         - [x] icona interagibile vai da un amico
     - [ ] cerca località per nome
-- [x] amici (va solo linkato)
-    - [x] visualizza la lista degli amici 
-    - [x] manda un saluto
+- [x] **amici** (va solo linkato)
+    - [x] visualizza la lista degli amici (va solo linkato)
+    - [x] manda un saluto (va solo linkato)
     - [ ] verifica se sono in giro da qualche parte
-- [ ] socializza
-    - [ ] swith tra mappa
-    - [x] (va linkato) lista di persone in giro che chiacherano o partecipano ad eventi o che organizzano eventi
+    - [ ] leggi le didascalie lunghe in un widget/popup
+- [ ] **socializza**
+    - [ ] mappa con vari eventi con persone sconosciute 1/2
+    - [ ] lista di persone in giro che chiacherano o partecipano ad eventi o che organizzano eventi
     - [ ] icona straniero che vuole parlare oppure che dirige un evento: tipo briscola
     - [ ] organizza evento nel posto in cui ti trovi o in un posto: do chiacchere/briscola
-- [ ] profilo
-    - [ ] cambia immagine e nome
-    - [ ] aggiungi didascalia corta
-    - altro?
-- [ ] impostazioni/preferenze
+- [ ] **profilo**
+    - [ ] cambia immagine, *e nome?*
+    - [ ] aggiungi didascalia esempio corta(20caratteri) e una lunga 
+    - altro? 
+- [ ] **impostazioni/preferenze**
     - [ ] varie opzioni
     - [ ] deviazione massima del percorso per incrociare e salutare un amico
 
