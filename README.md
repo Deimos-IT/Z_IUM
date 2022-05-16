@@ -1,4 +1,4 @@
-[immagini utilizzate su axure](https://we.tl/t-KTr6wNWd5L)  
+[cartella delle immagini](https://we.tl/t-KTr6wNWd5L)  
 
 [salvataggio axure](https://we.tl/t-hn50jWakFm)   
 
