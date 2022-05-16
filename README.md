@@ -12,12 +12,13 @@
         - [x] percorso accessibile: che ti trova il percorso con i ponti con rampa
         - [x] percorso gmaps con la possibilità di incrociare amici per strada
         - [x] percorso accessibile con la possibilità di incrociare amici per strada
-            - [ ] da definire le preferenze sulla deviazione massima del percorso
+            - [ ] ~~da definire le preferenze sulla deviazione massima del percorso~~
             - [x] widget degli amici incrociati e possibilità di vedere la lista degli amici presenti nel posto x e mandare un saluto
                 - [x] possibilità di aggiungere nuovi amici in base alle persone presenti nella cerchia del tuo amico
+            - [ ] simulare notifica: sei arrivato dagli amici, c'è un rischio di alta marea
 - [x] **cerca**
-    - [x] lista di percorsi più frequenti
-    - [x] apertura mappa
+    - [x] lista dei percorsi più frequenti
+    - [x] apertura mappa swipabile
         - [x] icona interagibile vai a casa
         - [x] icona interagibile vai da un amico
     - [ ] cerca località per nome
