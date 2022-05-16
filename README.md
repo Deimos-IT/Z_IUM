@@ -35,8 +35,8 @@
     - [ ] aggiungi didascalia corta
     - altro?
 - [ ] impostazioni/preferenze
-    - varie opzioni
-    - deviazione massima del percorso per incrociare e salutare un amico
+    - [ ] varie opzioni
+    - [ ] deviazione massima del percorso per incrociare e salutare un amico
 
   
 # inclusività
