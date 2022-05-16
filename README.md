@@ -1,6 +1,9 @@
-[immagini utilizzate su axure](https://we.tl/t-KTr6wNWd5L)
-[salvataggio axure](https://we.tl/t-hn50jWakFm)
-# bisogna sviluppare le schermate principali
+[immagini utilizzate su axure](https://we.tl/t-KTr6wNWd5L)  
+
+[salvataggio axure](https://we.tl/t-hn50jWakFm)  
+[link per provare l'app, usasre il pc che sul celefono a me fa cachicchiare](https://spahli.axshare.com)  
+
+# DO PASSI
 - [x] vai a casa 
     - [x] scelta tipo di percorso
         - [x] percorso google maps: che ti indica i vari problemi
