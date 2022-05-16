@@ -1,4 +1,39 @@
+[immagini utilizzate su axure](https://we.tl/t-KTr6wNWd5L)
+# bisogna sviluppare le schermate principali
+- [x] vai a casa 
+    - [x] scelta tipo di percorso
+        - [x] percorso google maps: che ti indica i vari problemi
+            - [x] widget: ponti
+        - [x] percorso accessibile: che ti trova il percorso con i ponti con rampa
+        - [x] percorso gmaps con la possibilità di incrociare amici per strada
+        - [x] percorso accessibile con la possibilità di incrociare amici per strada
+            - [ ] da definire le preferenze sulla deviazione massima del percorso
+            - [x] widget degli amici incrociati e possibilità di vedere la lista degli amici presenti nel posto x e mandare un saluto
+                - [x] possibilità di aggiungere nuovi amici in base alle persone presenti nella cerchia del tuo amico
+- [x] cerca
+    - [x] lista di percorsi più frequenti
+    - [x] apertura mappa
+        - [x] icona interagibile vai a casa
+        - [x] icona interagibile vai da un amico
+    - [ ] cerca località per nome
+- [x] amici (va solo linkato)
+    - [x] visualizza la lista degli amici 
+    - [x] manda un saluto
+    - [ ] verifica se sono in giro da qualche parte
+- [ ] socializza
+    - [ ] swith tra mappa
+    - [x] (va linkato) lista di persone in giro che chiacherano o partecipano ad eventi o che organizzano eventi
+    - [ ] icona straniero che vuole parlare oppure che dirige un evento: tipo briscola
+    - [ ] organizza evento nel posto in cui ti trovi o in un posto: do chiacchere/briscola
+- [ ] profilo
+    - [ ] cambia immagine e nome
+    - [ ] aggiungi didascalia corta
+    - altro?
+- [ ] impostazioni/preferenze
+    - varie opzioni
+    - deviazione massima del percorso per incrociare e salutare un amico
 
+  
 # inclusività
 se non usi la navigazione oppure vuoi fare una pausa
 - [ ] aggiunta del **percorso quattro chiacchere**  
