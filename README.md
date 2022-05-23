@@ -4,16 +4,16 @@
 
 # DO PASSI TO DO
 > missing
-- smart watch UI: simulate notifications 
+1. smart watch UI: simulate notifications 
 	- [ ] show UI: go left/right
 	- [ ] show UI: extreme prediction temperature/flooding/weather/overpopulation, specify only remaining time occurency
 		- [ ] -> link to phone page: **cerca**  or **go home**
 	- [ ] show UI: that you are organizing an event
 		- [ ] -> link to phone page: **Stai organizzando evento**
-- storyboards: 
+2. storyboards: 
 	- [ ] expose ambient display
 	- [ ] expose application usage
-- DO PASSI APP level ups not required
+3. OPTIONAL: DO PASSI APP level ups
 	- [ ] link buttons **start trip** to **go left/right** UI 
 	- [x] **cerca**
 	    - [ ] pagina **cerca località per nome**
