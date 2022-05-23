@@ -1,10 +1,24 @@
-[cartella delle immagini](https://we.tl/t-0Boq4X3IQy)  
+[app finale](https://d65a06.axshare.com) test it
 
-[app finale](https://d65a06.axshare.com)
+[axure saving](https://we.tl/t-q4fWAM0pZN) scade DOMENICA 29/06  
 
-[salvataggio axure](https://we.tl/t-VxxCP495l0)   
-
-# DO PASSI
+# DO PASSI TO DO
+> missing
+- smart watch UI: simulate notifications 
+	- [ ] show UI: go left/right
+	- [ ] show UI: extreme prediction temperature/flooding/weather/overpopulation, specify only remaining time occurency
+		- [ ] -> link to phone page: **cerca**  or **go home**
+	- [ ] show UI: that you are organizing an event
+		- [ ] -> link to phone page: **Stai organizzando evento**
+- storyboards: 
+	- [ ] expose ambient display
+	- [ ] expose application usage
+- DO PASSI APP level ups not required
+	- [ ] link buttons **start trip** to **go left/right** UI 
+	- [x] **cerca**
+	    - [ ] pagina **cerca località per nome**
+# DO PASSI DONE
+- [x] login page
 - [x] vai a casa 
     - [x] scelta tipo di percorso
         - [x] percorso google maps: che ti indica i vari problemi
@@ -12,7 +26,6 @@
         - [x] percorso accessibile: che ti trova il percorso con i ponti con rampa
         - [x] percorso gmaps con la possibilità di incrociare amici per strada
         - [x] percorso accessibile con la possibilità di incrociare amici per strada
-            - [ ] ~~da definire le preferenze sulla deviazione massima del percorso~~
             - [x] widget degli amici incrociati e possibilità di vedere la lista degli amici presenti nel posto x e mandare un saluto
                 - [x] possibilità di aggiungere nuovi amici in base alle persone presenti nella cerchia del tuo amico
             - [ ] simulare notifica: sei arrivato dagli amici, c'è un rischio di alta marea
@@ -27,14 +40,14 @@
     - [x] manda un saluto (va solo linkato)
     - [ ] verifica se sono in giro da qualche parte
     - [ ] leggi le didascalie lunghe in un widget/popup
-- [ ] **socializza**
+- [x] **socializza**
     - [ ] mappa con vari eventi con persone sconosciute 1/2
     - [ ] lista di persone in giro che chiacherano o partecipano ad eventi o che organizzano eventi
     - [ ] icona straniero che vuole parlare oppure che dirige un evento: tipo briscola
-    - [ ] organizza evento nel posto in cui ti trovi o in un posto: do chiacchere/briscola
-- [ ] **profilo**
-    - [ ] cambia immagine, *e nome?*
-    - [ ] aggiungi didascalia esempio corta(20caratteri) e una lunga 
+    - [x] organizza evento nel posto in cui ti trovi o in un posto: do chiacchere/briscola
+- [x] **profilo**
+    - [x] cambia immagine, *e nome?*
+    - [x] aggiungi didascalia esempio corta(20caratteri) e una lunga 
     - altro? 
 - [ ] **impostazioni/preferenze**
     - [ ] varie opzioni
