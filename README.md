@@ -17,7 +17,7 @@
 	- [ ] link buttons **start trip** to **go left/right** UI 
 	- [x] **cerca**
 	    - [ ] pagina **cerca località per nome**
-# DO PASSI DONE
+# ~~DO PASSI DONE~~
 - [x] login page
 - [x] vai a casa 
     - [x] scelta tipo di percorso
