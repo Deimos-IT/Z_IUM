@@ -7,17 +7,17 @@
 1. smart watch UI: simulate notifications 
 	- [ ] show UI: go left/right
 	- [ ] show UI: extreme prediction temperature/flooding/weather/overpopulation, specify only remaining time occurency
-		- [ ] -> link to phone page: **cerca**  or **go home**
+		- [ ] -> link to phone page: `cerca`  or `go home`
 	- [ ] show UI: that you are organizing an event
-		- [ ] -> link to phone page: **Stai organizzando evento**
+		- [ ] -> link to phone page: `Stai organizzando evento`
 2. storyboards: 
 	- [ ] 4 expose ambient display
 	- [ ] 1 expose application usage
 3. change main description of the project aka "AUTO-FILL Gruppo 13.pdf"
 4. OPTIONAL: DO PASSI APP level ups
-	- [ ] link buttons **start trip** to **go left/right** UI 
-	- [x] **cerca**
-	    - [ ] pagina **cerca località per nome**
+	- [ ] link buttons `start trip` to `go left/right` UI 
+	- [x] `cerca`
+	    - [ ] pagina `cerca località per nome`
 # ~~DO PASSI APP~~
 - [x] login page
 - [x] vai a casa 
