@@ -11,8 +11,8 @@
 	- [ ] show UI: that you are organizing an event
 		- [ ] -> link to phone page: **Stai organizzando evento**
 2. storyboards: 
-	- [ ] expose ambient display
-	- [ ] expose application usage
+	- [ ] 4 expose ambient display
+	- [ ] 1 expose application usage
 3. change main description of the project aka "AUTO-FILL Gruppo 13.pdf"
 4. OPTIONAL: DO PASSI APP level ups
 	- [ ] link buttons **start trip** to **go left/right** UI 
