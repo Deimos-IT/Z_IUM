@@ -2,7 +2,8 @@
 
 [axure saving](https://we.tl/t-q4fWAM0pZN) scade DOMENICA 29/06  
 
-# DO PASSI TO DO
+# INIZIO SEZIONE DA FARE 
+# START TO DO
 > missing
 1. smart watch UI: simulate notifications 
 	- [ ] show UI: go left/right
@@ -18,7 +19,17 @@
 	- [ ] link buttons `start trip` to `go left/right` UI 
 	- [x] `cerca`
 	    - [ ] pagina `cerca località per nome`
-# ~~DO PASSI APP~~
+# FINE SEZIONE DA FARE 
+# END TO DO
+
+
+
+
+
+
+
+________________________________________________________
+# LOG FILE ~~DO PASSI APP~~ IGNORE DOWN BELOW
 - [x] login page
 - [x] vai a casa 
     - [x] scelta tipo di percorso
