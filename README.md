@@ -7,13 +7,15 @@
 > missing
 1. smart watch UI: simulate notifications 
 	- [ ] show UI: go left/right
-	- [ ] show UI: extreme prediction temperature/flooding/weather/overpopulation, specify only remaining time occurency
-		- [ ] -> link to phone page: `cerca`  or `go home`
-	- [ ] show UI: that you are organizing an event
+	- [ ] show UI: extreme prediction temperature/flooding/weather/overpopulation,  
+          specify only remaining time occurency
+		- [ ] -> link to phone page: `cerca`  or `go home`, because of the catastrophic event
+	- [ ] show UI: that you are organizing an event.  
+          In the main application there is an icon that shows you are sharing your position
 		- [ ] -> link to phone page: `Stai organizzando evento`
 2. storyboards: 
 	- [ ] 4 expose ambient display
-	- [ ] 1 expose application usage
+	- [x] 1 expose application usage
 3. change main description of the project aka "AUTO-FILL Gruppo 13.pdf"
 4. OPTIONAL: DO PASSI APP level ups
 	- [ ] link buttons `start trip` to `go left/right` UI 
@@ -21,13 +23,13 @@
 	    - [ ] pagina `cerca località per nome`
 # FINE SEZIONE DA FARE 
 # END TO DO
-
-
-
-
-
-
-
+.  
+.  
+.  
+.  
+.  
+.  
+.  
 ________________________________________________________
 # LOG FILE ~~DO PASSI APP~~ IGNORE DOWN BELOW
 - [x] login page
