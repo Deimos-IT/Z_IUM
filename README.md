@@ -16,7 +16,11 @@
 2. storyboards: 
 	- [ ] 4 expose ambient display
 	- [x] 1 expose application usage
-3. change main description of the project aka "AUTO-FILL Gruppo 13.pdf"
+3. Compile files from Moodle requested by prof
+        - [ ] descrizione nuova e dettagliata progetto [template1.doc](https://moodle.unive.it/mod/resource/view.php?id=503125)
+        - [ ] requisiti app [iliewilldo.doc](https://moodle.unive.it/mod/resource/view.php?id=503126)
+        - [ ] ambient display [template3.doc](https://moodle.unive.it/mod/resource/view.php?id=503127)
+        - [ ] poster ambient display [template4.doc](https://moodle.unive.it/mod/resource/view.php?id=503128)
 4. OPTIONAL: DO PASSI APP level ups
 	- [ ] link buttons `start trip` to `go left/right` UI 
 	- [x] `cerca`
