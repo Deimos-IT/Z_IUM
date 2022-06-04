@@ -10,9 +10,9 @@
 	- [ ] show UI: extreme prediction temperature/flooding/weather/overpopulation,  
           specify only remaining time occurency
 		- [ ] -> link to phone page or ignore: `cerca`  or `go home`, because of the catastrophic event
-	- [ ] show UI: that you are organizing an event.  
+	- [x] show UI: that you are organizing an event.  
           In the main application there is an icon that shows you are sharing your position
-		- [ ] -> link to phone page or stop event: `Stai organizzando evento`
+		- [x] -> link to phone page or stop event: `Stai organizzando evento`
 2. storyboards: 
 	- [ ] 4 expose ambient display
 	- [x] 1 expose application usage
