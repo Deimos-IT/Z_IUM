@@ -5,15 +5,23 @@
 # INIZIO SEZIONE DA FARE 
 # START TO DO
 > missing
-1. smart watch UI
-	- [ ] show UI: go left/right
-	- [ ] show UI: simulate notifications extreme prediction temperature/flooding/weather/overpopulation,  
-          specify only remaining time occurency
-		- [ ] -> link to phone page or ignore: `cerca`  or `go home`, because of the catastrophic event
-	- [ ]  what else? find something 
-	- [x]  show UI: that you are organizing an event.  
-          In the main application there is an icon that shows you are sharing your position
-		- [x] -> link to phone page or stop event: `Stai organizzando evento`
+1. smart watch UI, use templates to start your work
+	- [ ] duplicated main page: notification: extreme prediction temperature/flooding/weather/overpopulation,  
+          specify only remaining time occurency and show what extreme event occurs
+	  	clicking on notification triggers page to manage the emergency ->  
+		- [ ] -> link to phone page **or ignore**: `cerca`  or `go home`, because of the catastrophic event
+	- [ ] duplicated main page: simulate notification: go left/right 
+		when notification is not visible  
+		- [ ] bottom shows that you're navigating and by clicking goes to menu of navigation where you can
+			- [ ] exit from navigation or go back
+	- [ ] duplicated main page: simulate you're arrived at destination  
+		- [ ] OPTIONAL: simulate you're arrived to an event or friend location
+	- [ ] duplicated main page: simulate notification: senior fell down
+		- [ ] after x seconds triggers call of pronto soccorso 
+	- [x] duplicated main page: simulate notification: people coming to you becouse you are hosting an event
+		works only when global variable properly set (no need to understand how)  
+		- [x] organizing event trigger from phone: an icon that shows you are sharing your position 
+			- [x] stop event from smartwatch
 2. storyboards: 
 	- [ ] 4 expose ambient display
 	- [x] 1 expose application usage
