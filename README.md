@@ -5,12 +5,13 @@
 # INIZIO SEZIONE DA FARE 
 # START TO DO
 > missing
-1. smart watch UI: simulate notifications 
+1. smart watch UI
 	- [ ] show UI: go left/right
-	- [ ] show UI: extreme prediction temperature/flooding/weather/overpopulation,  
+	- [ ] show UI: simulate notifications extreme prediction temperature/flooding/weather/overpopulation,  
           specify only remaining time occurency
 		- [ ] -> link to phone page or ignore: `cerca`  or `go home`, because of the catastrophic event
-	- [x] show UI: that you are organizing an event.  
+	- [ ]  what else? find something 
+	- [x]  show UI: that you are organizing an event.  
           In the main application there is an icon that shows you are sharing your position
 		- [x] -> link to phone page or stop event: `Stai organizzando evento`
 2. storyboards: 
