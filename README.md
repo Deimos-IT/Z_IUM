@@ -1,6 +1,6 @@
 [final app](https://d65a06.axshare.com) test it
-
-[axure saving](https://we.tl/t-oqfiMFtXNT) latest version is 3.3 Venerdì 10/06  
+[icons used](https://we.tl/t-qI2oLtXzcy) valid till Venerdì 17/06  
+[axure saving](https://we.tl/t-cWwA0WNI8o) latest version is 3.4  valid till Venerdì 17/06  
 
 # INIZIO SEZIONE DA FARE 
 # START TO DO
