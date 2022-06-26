@@ -30,7 +30,7 @@
 	- [ ] poster ambient display [template4.doc](https://moodle.unive.it/mod/resource/view.php?id=503128).  
 
 4. OPTIONAL: DO PASSI APP level ups
-	- [ ] link buttons `start trip` to `go left/right` UI 
+	- [x] link buttons `start trip` to `go left/right` UI 
 	- [x] `cerca`
 	    - [ ] pagina `cerca località per nome`
 # FINE SEZIONE DA FARE 
