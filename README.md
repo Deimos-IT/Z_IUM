@@ -1,34 +1,32 @@
-[final app](https://d65a06.axshare.com) test it    
-[icons used](https://we.tl/t-qI2oLtXzcy)  
-[axure saving](https://we.tl/t-CUSiGD6hIk) latest version is 3.5
+[final app](https://6635qi.axshare.com/) test it   
 
 # INIZIO SEZIONE DA FARE 
 # START TO DO
 > missing
 1. smart watch UI, use templates to start your work
-	- [ ] duplicated main page: notification: extreme prediction temperature/flooding/weather/overpopulation,  
+	- [x] duplicated main page: notification: extreme prediction temperature/flooding/weather/overpopulation,  
           specify only remaining time occurency and show what extreme event occurs
 	  	clicking on notification triggers page to manage the emergency ->  
-		- [ ] -> link to phone page **or ignore**: `cerca`  or `go home`, because of the catastrophic event
-	- [ ] duplicated main page: simulate notification: go left/right 
+		- [x] -> link to phone page **or ignore**: `cerca`  or `go home`, because of the catastrophic event
+	- [x] duplicated main page: simulate notification: go left/right 
 		when notification is not visible  
-		- [ ] bottom shows that you're navigating and by clicking goes to menu of navigation where you can
-			- [ ] exit from navigation or go back
-	- [ ] duplicated main page: simulate you're arrived at destination  
+		- [x] bottom shows that you're navigating and by clicking goes to menu of navigation where you can
+			- [x] exit from navigation or go back
+	- [x] duplicated main page: simulate you're arrived at destination  
 		- [ ] OPTIONAL: simulate you're arrived to an event or friend location
-	- [ ] duplicated main page: simulate notification: senior fell down
-		- [ ] after x seconds triggers call of pronto soccorso 
+	- [x] duplicated main page: simulate notification: senior fell down
+		- [x] after x seconds triggers call of pronto soccorso 
 	- [x] duplicated main page: simulate notification: people coming to you becouse you are hosting an event
 		works only when global variable properly set (no need to understand how)  
 		- [x] organizing event trigger from phone: an icon that shows you are sharing your position 
 			- [x] stop event from smartwatch
 2. storyboards: 
-	- [ ] 4 expose ambient display
+	- [x] 4 expose ambient display
 	- [x] 1 expose application usage
 3. Compile files from Moodle requested by prof
-	- [ ] descrizione nuova e dettagliata progetto [template1.doc](https://moodle.unive.it/mod/resource/view.php?id=503125).  
-	- [ ] requisiti app [template2.doc](https://moodle.unive.it/mod/resource/view.php?id=503126).  
-	- [ ] ambient display [template3.doc](https://moodle.unive.it/mod/resource/view.php?id=503127).   
+	- [x] descrizione nuova e dettagliata progetto [template1.doc](https://moodle.unive.it/mod/resource/view.php?id=503125).  
+	- [x] requisiti app [template2.doc](https://moodle.unive.it/mod/resource/view.php?id=503126).  
+	- [x] ambient display [template3.doc](https://moodle.unive.it/mod/resource/view.php?id=503127).   
 	- [ ] poster ambient display [template4.doc](https://moodle.unive.it/mod/resource/view.php?id=503128).  
 
 4. OPTIONAL: DO PASSI APP level ups
