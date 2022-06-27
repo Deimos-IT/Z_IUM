@@ -1,6 +1,7 @@
 [final app](https://6635qi.axshare.com/) test it   
 
 # Log file
+# final step
 1. smart watch UI, use templates to start your work
 	- [x] duplicated main page: notification: extreme prediction temperature/flooding/weather/overpopulation,  
           specify only remaining time occurency and show what extreme event occurs
