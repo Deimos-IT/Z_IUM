@@ -1,8 +1,6 @@
 [final app](https://6635qi.axshare.com/) test it   
 
-# INIZIO SEZIONE DA FARE 
-# START TO DO
-> missing
+# Log file
 1. smart watch UI, use templates to start your work
 	- [x] duplicated main page: notification: extreme prediction temperature/flooding/weather/overpopulation,  
           specify only remaining time occurency and show what extreme event occurs
@@ -33,17 +31,8 @@
 	- [x] link buttons `start trip` to `go left/right` UI 
 	- [x] `cerca`
 	    - [ ] pagina `cerca località per nome`
-# FINE SEZIONE DA FARE 
-# END TO DO
-.  
-.  
-.  
-.  
-.  
-.  
-.  
 ________________________________________________________
-# LOG FILE ~~DO PASSI APP~~ IGNORE DOWN BELOW
+# ~~DO PASSI APP~~ IGNORE DOWN BELOW
 - [x] login page
 - [x] vai a casa 
     - [x] scelta tipo di percorso
