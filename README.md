@@ -27,7 +27,7 @@
 	- [x] descrizione nuova e dettagliata progetto [template1.doc](https://moodle.unive.it/mod/resource/view.php?id=503125).  
 	- [x] requisiti app [template2.doc](https://moodle.unive.it/mod/resource/view.php?id=503126).  
 	- [x] ambient display [template3.doc](https://moodle.unive.it/mod/resource/view.php?id=503127).   
-	- [ ] poster ambient display [template4.doc](https://moodle.unive.it/mod/resource/view.php?id=503128).  
+	- [x] poster ambient display [template4.doc](https://moodle.unive.it/mod/resource/view.php?id=503128).  
 
 4. OPTIONAL: DO PASSI APP level ups
 	- [x] link buttons `start trip` to `go left/right` UI 
